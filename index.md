@@ -1,8 +1,5 @@
 ## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/learnopt2021/learning-and-optimization/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Test 1
 
 ### Markdown
 
@@ -21,7 +18,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-New: Add testing context here.
+Add testing context here.
 
 **Bold** and _Italic_ and `Code` text
 
